@@ -5,6 +5,7 @@
 
 Soy desarrollador de software full stack con 3 años de experiencia. Actualmente, me especializo construir aplicaciones empresariales utilizando .NET, Java, Angular, Blazor . Disfruto enfrentando desafíos y poseo la capacidad de transformar conceptos iniciales en soluciones concretas, implementadas y verificadas.
 
+## Technologies
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
