@@ -1,4 +1,4 @@
-# Hola, mi nombre es Fernando Vallejos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hola, mi nombre es Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ### Freelance full-stack .Net & Angular
 
 ![https://github.com/fvallejosdev](./portada.png)
