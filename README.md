@@ -3,7 +3,7 @@
 
 ![https://github.com/fvallejosdev](./portada.png)
 
-Soy desarrollador de software full stack con 3 años de experiencia. Actualmente, me especializo construir aplicaciones empresariales utilizando .NET, Java, Angular, Blazor . Disfruto enfrentando desafíos y poseo la capacidad de transformar conceptos iniciales en soluciones concretas, implementadas y verificadas.
+Soy desarrollador de software full stack con +2 años de experiencia. Actualmente, me especializo construir aplicaciones empresariales utilizando .NET, Java, Angular, Blazor . Disfruto enfrentando desafíos y poseo la capacidad de transformar conceptos iniciales en soluciones concretas, implementadas y verificadas.
 
 ## Technologies
 <!--tech stack icons-->
